@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sms Spamer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_info">Przeczytaj</string>
+    <string name="action_refresh">Zeruj ustawienia</string>
+    <string name="sms_content_hint">Treść SMS\'a</string>
+    <string name="empty_field">Wpisz treść SMS\'a</string>
+    <string name="sent_all">Zakończono wysyłanie</string>
+    <string name="validation_fail">Błąd walidacji</string>
+    <string name="help">Utworz 2 pliki z numerami telefonów o nazwie numbers.txt oraz wiadomościami messages.txt. Umieść je w katalogu ../Android/data/com.google.kamil1338.smsspread/files. Każdy numer powinien znajdować się w osobnej lini tak samo jak wiadomość. Format numeru jest następujący: 48123456789. Jeśli wystąpi jakiś błąd podczas wysyłania wiadomości na konkretny numer to zostanie on zapisany do pliku fails.txt.</string>
+    <string name="ok_button">OK</string>
+    <string name="sms_file_correctness">Plik wiadomości</string>
+    <string name="messages_file_correctness">Plik kontaktów</string>
+    <string name="load_previous_config">Załaduj poprzednie ustawienia</string>
+    <string name="available_messages_to_send">Ilość wiadomosci do wysłania</string>
+    <string name="remained_messages">Liczba numerów telefonów, do których jeszcze nie wysłano wiadomości</string>
+    <string name="interval_between_message">Przedział czasowy pomiędzy kolejnymi wiadomościami</string>
+    <string name="from">od</string>
+    <string name="to">do</string>
+    <string name="wrong_value">Zła wartość</string>
+    <string name="second_unit">sekund</string>
+    <string name="progress_header">Postęp wysyłania wiadomości</string>
+    <string name="error">Błąd</string>
+    <string name="empty">Puste</string>
+    <string name="field_blocked">Zablokowane</string>
+    <string name="configuration_incorrect">Błędna konfiguracja</string>
+    <string name="field_cannot_be_empty">Pole nie może byc puste</string>
+    <string name="field_cannot_be_greater_than_remained">Ilość wiadomości nie może być większa od liczy pozostałych wiadomości</string>
+    <string name="paused">Zatrzymano</string>
+    <string name="field_wait_time_betweeen_messages">Czas oczekiwania na raport doręczenia</string>
+    <string name="field_wait_time_between_messages_error">Czas oczekiwania nie może być mniejszy niż 5 sekund</string>
+    <string name="app_resetted">Aplikacja zresetowana</string>
+    <string name="stopping">Zatrzymywanie wysyłania wiadomosci</string>
+    <string name="about">O programie</string>
+    <string name="icon_license">Ikona aplikacji: https://icons8.com/</string>
+</resources>
