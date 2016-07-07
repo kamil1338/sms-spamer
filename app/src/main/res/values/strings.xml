@@ -7,7 +7,7 @@
     <string name="empty_field">Wpisz treść SMS\'a</string>
     <string name="sent_all">Zakończono wysyłanie</string>
     <string name="validation_fail">Błąd walidacji</string>
-    <string name="help">Utworz 2 pliki z numerami telefonów o nazwie numbers.txt oraz wiadomościami messages.txt. Umieść je w katalogu ../Android/data/com.google.kamil1338.smsspread/files. Każdy numer powinien znajdować się w osobnej lini tak samo jak wiadomość. Format numeru jest następujący: 48123456789. Jeśli wystąpi jakiś błąd podczas wysyłania wiadomości na konkretny numer to zostanie on zapisany do pliku fails.txt.</string>
+    <string name="help">Utworz 2 pliki z numerami telefonów o nazwie numbers.txt oraz wiadomościami messages.txt. Umieść je w katalogu ../Android/data/com.google.kamil1338.smsspread/files. Każdy numer powinien znajdować się w osobnej lini tak samo jak wiadomość. Format numeru jest następujący: 48123456789. Wiadomość może zawierać maksymalnie 140 znaków, znaki nadmiarowe zostaną usunięte. Polskie znaki zostaną zamienione na zwykłe. Jeśli wystąpi jakiś błąd podczas wysyłania wiadomości na konkretny numer to zostanie on zapisany do pliku fails.txt.</string>
     <string name="ok_button">OK</string>
     <string name="sms_file_correctness">Plik wiadomości</string>
     <string name="messages_file_correctness">Plik kontaktów</string>
